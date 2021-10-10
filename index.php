@@ -111,6 +111,9 @@ require('include/menubar.php');
 	<!-- tawk chat JS
 		============================================ -->
     <script src="js/tawk-chat.js"></script>
+
+    <!--Delete -->
+    <p>Hi</p>
 </body>
 
 </html>
